@@ -17,6 +17,7 @@ Welcome to the DAX Index Prediction repository, dedicated to exploring and devel
 4. **Documentation**: Detailed documentation on preprocessing steps, model selection, hyperparameter tuning, and evaluation metrics for predicting the DAX index using neural networks.
 
 5. **Experimental Results**: Presents experimental results obtained by applying different neural network models to the DAX dataset. Results are depicted in graphs, tables, and evaluation metrics for comprehensive comparison.
+6. **Other**: Shows data and experiments based on the Source Code for other indexes as the 
 
 
 
