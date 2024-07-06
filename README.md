@@ -8,6 +8,7 @@ Welcome to the DAX Index Prediction repository, dedicated to exploring and devel
 
 ## Contents
 
+
 1. **Datasets**: Contains historical datasets of the DAX index. These datasets include daily, weekly, or monthly data, comprising opening, high, low, and closing prices, as well as trading volume and other relevant indicators.
 
 2. **Model Implementations**: Provides implementations of various neural network architectures customized for predicting the DAX index. Models such as Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Long Short-Term Memory Networks (LSTM), and others are explored.
